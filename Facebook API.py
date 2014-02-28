@@ -3,11 +3,16 @@ __author__ = 'michaelluo'
 from urllib2 import urlopen
 import json
 
+
 testOpen = urlopen('https://graph.facebook.com/563700600')  #my own ID
 testOpenJSON = json.load(testOpen)
 print testOpen
 print testOpenJSON
 
-testOpenWithFields = urlopen('https://graph.facebook.com/563700600?fields=id,name')
+#Access_token = CAACEdEose0cBAAN27A2bMOlK9Hjw6ELqFdHTgJ3RlC8EATy8IxfOOEuGoxFqDcaWPfGEeNoasbpSZB5wROlHhsvQyCeH2KHCKLZCP3XJbdTvFEYPffUStBQ65mU6OOQxw4yTlcLmBhZCdn8jUJKBvo7QWzKAJi9jCH4GeH2rYOtm3jTfuIiiHXXz3Ro99oZD
+access_token = 'CAACEdEose0cBAAN27A2bMOlK9Hjw6ELqFdHTgJ3RlC8EATy8IxfOOEuGoxFqDcaWPfGEeNoasbpSZB5wROlHhsvQyCeH2KHCKLZCP3XJbdTvFEYPffUStBQ65mU6OOQxw4yTlcLmBhZCdn8jUJKBvo7QWzKAJi9jCH4GeH2rYOtm3jTfuIiiHXXz3Ro99oZD'
+
+testOpenWithFields = urlopen('https://graph.facebook.com/563700600?fields=id,name,music&access_token=CAACEdEose0cBAAN27A2bMOlK9Hjw6ELqFdHTgJ3RlC8EATy8IxfOOEuGoxFqDcaWPfGEeNoasbpSZB5wROlHhsvQyCeH2KHCKLZCP3XJbdTvFEYPffUStBQ65mU6OOQxw4yTlcLmBhZCdn8jUJKBvo7QWzKAJi9jCH4GeH2rYOtm3jTfuIiiHXXz3Ro99oZD')
 testOpenJSONFields = json.load(testOpenWithFields)
 print testOpenJSONFields
+
