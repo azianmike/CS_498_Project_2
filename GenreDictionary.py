@@ -25,6 +25,17 @@ artistGenre = {
     'backstreet boys':'Pop',
     'beyonce':'Hip Hop',
     'beyoncé':'Hip Hop',
-    'blake shelton':'Country'
+    'blake shelton':'Country',
+    'blink-182': 'Rock',
+    'bon jovi':'Rock',
+    'brad paisley': 'Country',
+    'britney spears':'Pop',
+    'bruno mars': 'Pop',
+    'carrie underwood': 'Country',
+    'ceelo green':'Hip Hop',
+    'christina aguilera':'Pop',
+    'daft punk':'Electronic',
+    'darius rucker': 'Country',
+
 
 }
