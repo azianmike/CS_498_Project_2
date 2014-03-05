@@ -12,6 +12,19 @@ artistGenre = {
     'flux pavilion': 'Electronic',
     'mike posner': 'Pop',
     'macklemore': 'Hip Hop',
-
+    'coldplay': 'Rock',
+    'blue scholars': 'Hip Hop',
+    'flux pavillion': 'Electronic',
+    'flying lotus': 'Electronic',
+    'netsky': 'Electronic',
+    't.i.': 'Hip Hop',
+    '*nsync': 'Pop',
+    '3 doors down':'Rock',
+    'adam levine':'Pop',
+    'aloe blacc':'Hip Hop',
+    'backstreet boys':'Pop',
+    'beyonce':'Hip Hop',
+    'beyoncé':'Hip Hop',
+    'blake shelton':'Country'
 
 }

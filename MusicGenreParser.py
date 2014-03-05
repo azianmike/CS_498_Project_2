@@ -14,6 +14,7 @@ for person in allData:
     #print person['name']
     personMusic = person['music'].split(', ')  #, and space
     if len(personMusic) >= 50:
+        personMusic = sorted(personMusic)
         musicOver20.append(personMusic)
         for x in personMusic:
             if artistGenre.has_key(x.lower()) is False:
