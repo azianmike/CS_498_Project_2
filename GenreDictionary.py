@@ -9,6 +9,9 @@ artistGenre = {
     'gucci mane': 'Electronic',
     'wiz khalifa': 'Hip Hop',
     'bassnectar': 'Electronic',
-    'flux pavilion': 'Electronic'
+    'flux pavilion': 'Electronic',
+    'mike posner': 'Pop',
+    'macklemore': 'Hip Hop',
+
 
 }

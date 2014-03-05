@@ -16,9 +16,8 @@ for person in allData:
     if len(personMusic) >= 50:
         musicOver20.append(personMusic)
         for x in personMusic:
-            # if artistGenre.has_key(x):
-            #     print artistGenre[x]
-            print x
+            if artistGenre.has_key(x.lower()) is False:
+                print x
 
 
 
