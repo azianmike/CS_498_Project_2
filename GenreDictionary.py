@@ -24,7 +24,7 @@ artistGenre = {
     'aloe blacc':'Hip Hop',
     'backstreet boys':'Pop',
     'beyonce':'Hip Hop',
-    'beyoncé':'Hip Hop',
+    'beyonce':'Hip Hop',
     'blake shelton':'Country',
     'blink-182': 'Rock',
     'bon jovi':'Rock',
