@@ -8,6 +8,7 @@ country=0
 pop=0
 rock=0
 alternative=0
+count=0
 for x in artistGenre:
 
     if artistGenre[x] == 'Hip Hop':
@@ -22,6 +23,8 @@ for x in artistGenre:
         rock+=1
     if artistGenre[x] is 'Alternative':
         alternative+=1
+
+    count+=1
 
 print 'hip hop '+str(hiphopCount)
 print 'electronic '+str(electronic)
