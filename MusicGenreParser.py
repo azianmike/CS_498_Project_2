@@ -7,7 +7,7 @@ openData = open('jay-friends-music.txt')
 allData = json.load(openData)['data']
 
 musicOver50 = []
-musicOver50List = []
+musicOver50List = {}
 
 #Getting data from txt file and putting into one giant list
 for person in allData:
@@ -16,7 +16,8 @@ for person in allData:
     if len(personMusic) >= 50:
         personMusic = sorted(personMusic)
         musicOver50 = musicOver50 + personMusic
-        musicOver50List.append(personMusic)
+
+        musicOver50List[person['name']]=personMusic
         # for x in personMusic:
         #     if artistGenre.has_key(x.lower()) is False:
         #         print x.lower()
@@ -49,9 +50,9 @@ jayBensal['Not classified'] = count+notCount
 #print jayBensal
 
 #classifying each person
-personLikesList = []
+personLikesList = {}
 #goes through every person
-for person in musicOver50List:
+for person in musicOver50List.keys():
     personLikes = {
         'Hip Hop':'0',
         'Rock':'0',
@@ -63,7 +64,7 @@ for person in musicOver50List:
         'Not classified':'0'
     }
     #goes through every artist in persons like
-    for artist in person:
+    for artist in musicOver50List[person]:
         if artistGenre.has_key(artist.lower()):
             genre = artistGenre[artist.lower()]
             count = int(personLikes[genre])+1
@@ -72,10 +73,10 @@ for person in musicOver50List:
             count = int(personLikes['Not classified']) + 1
             personLikes['Not classified'] = count
 
-    personLikesList.append(personLikes)
+    personLikesList[person]=personLikes
 
-#prints out
-# for x in personLikesList:
-#     print x
+
+print personLikesList
+
 with open('JayBensalFriendData.txt', 'w') as outfile:
     json.dump(personLikesList, outfile)
