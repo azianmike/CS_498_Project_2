@@ -51,6 +51,7 @@ jayBensal['Not classified'] = count+notCount
 
 #classifying each person
 personLikesList = {}
+count = 1
 #goes through every person
 for person in musicOver50List.keys():
     personLikes = {
@@ -73,7 +74,8 @@ for person in musicOver50List.keys():
             count = int(personLikes['Not classified']) + 1
             personLikes['Not classified'] = count
 
-    personLikesList[person]=personLikes
+    personLikesList[count]=personLikes
+    count+=1
 
 
 print personLikesList
