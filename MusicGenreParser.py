@@ -1,6 +1,6 @@
 __author__ = 'michaelluo'
 
-import json
+import json, re
 from GenreDictionary import artistGenre
 
 openData = open('jay-friends-music.txt')
@@ -18,7 +18,8 @@ for person in allData:
         musicOver20.append(personMusic)
         for x in personMusic:
             if artistGenre.has_key(x.lower()) is False:
-                print x
+                print x.lower()
+                countKanye +=1
 
 
 
