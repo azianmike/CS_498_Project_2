@@ -49,7 +49,6 @@ jayBensal['Not classified'] = count+notCount
 #print jayBensal
 
 #classifying each person
-print musicOver50List
 personLikesList = []
 #goes through every person
 for person in musicOver50List:
@@ -76,5 +75,7 @@ for person in musicOver50List:
     personLikesList.append(personLikes)
 
 #prints out
-for x in personLikesList:
-    print x
+# for x in personLikesList:
+#     print x
+with open('JayBensalFriendData.txt', 'w') as outfile:
+    json.dump(personLikesList, outfile)
