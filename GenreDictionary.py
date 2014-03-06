@@ -154,7 +154,7 @@ artistGenre = {
     'tinie tempah': 'Hip Hop',
     'travis porter': 'Pop', 
     'trey songz': 'Hip Hop',
-    'ukf dubstep': 'Electronic ',
+    'ukf dubstep': 'Electronic',
     'van halen': 'Rock',
     'vicetone': 'Other',
     'watch the throne': 'Hip Hop',
