@@ -1,6 +1,6 @@
 __author__ = 'michaelluo'
 
-import json, re
+import json
 from GenreDictionary import artistGenre
 
 openData = open('jay-friends-music.txt')
@@ -8,7 +8,6 @@ allData = json.load(openData)['data']
 
 musicOver20 = []
 
-countKanye = 0
 
 for person in allData:
     #print person['name']
@@ -19,12 +18,7 @@ for person in allData:
         for x in personMusic:
             if artistGenre.has_key(x.lower()) is False:
                 print x.lower()
-<<<<<<< HEAD
-                countKanye +=1
-=======
->>>>>>> FETCH_HEAD
 
 
 
 print len(musicOver20)
-print countKanye
