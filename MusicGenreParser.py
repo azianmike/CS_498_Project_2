@@ -19,7 +19,10 @@ for person in allData:
         for x in personMusic:
             if artistGenre.has_key(x.lower()) is False:
                 print x.lower()
+<<<<<<< HEAD
                 countKanye +=1
+=======
+>>>>>>> FETCH_HEAD
 
 
 
