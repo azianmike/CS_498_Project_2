@@ -18,7 +18,7 @@ for person in allData:
         musicOver20.append(personMusic)
         for x in personMusic:
             if artistGenre.has_key(x.lower()) is False:
-                print x
+                print x.lower()
 
 
 
