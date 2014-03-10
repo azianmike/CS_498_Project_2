@@ -18,9 +18,9 @@ for person in allData:
         musicOver50 = musicOver50 + personMusic
 
         musicOver50List[person['name']]=personMusic
-        # for x in personMusic:
-        #     if artistGenre.has_key(x.lower()) is False:
-        #         print x.lower()
+      #  for x in personMusic:
+       #     if artistGenre.has_key(x.lower()) is False:
+        #        print x.lower()
 
 
 #classifying artists based on genre
@@ -78,7 +78,7 @@ for person in musicOver50List.keys():
     count+=1
 
 
-print personLikesList
+#print personLikesList
 
 with open('JayBensalFriendData.txt', 'w') as outfile:
     json.dump(personLikesList, outfile)
