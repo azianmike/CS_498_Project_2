@@ -81,4 +81,4 @@ for person in musicOver50List.keys():
 #print personLikesList
 
 with open('JayBensalFriendData.txt', 'w') as outfile:
-    json.dump(personLikesList, outfile)
+    json.dump(personLikesList, outfile, indent=4)
