@@ -64,12 +64,12 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.0, 
         "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Rock/Electronic": 0.5
     }, 
     "Sasank Vemulapati": {
         "Hip Hop/Pop": 0.25, 
@@ -88,7 +88,7 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.8571428571428571, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.2, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.6, 
@@ -257,23 +257,23 @@
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
         "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Rock/Electronic": 0.5
     }, 
     "Preston Ossman": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
+        "Country/Pop": 0.5, 
+        "Rock/Electronic": 0.5
     }, 
     "Monica Mendoza-Castrejon": {
         "Hip Hop/Pop": 1.0, 
@@ -365,8 +365,8 @@
         "Rock/Pop": 0.6666666666666666, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 1.0, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -402,7 +402,7 @@
         "Hip Hop/Alternative": 0.9473684210526315, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.6666666666666666, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -432,28 +432,28 @@
         "Rock/Electronic": 0.8823529411764706
     }, 
     "Isaiah Sneed": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 0.8571428571428571, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Country/Pop": 0.5, 
+        "Rock/Electronic": 0.5
     }, 
     "David Fure": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
-        "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Hip Hop/Alternative": 0.5, 
+        "Hip Hop/Electronic": 0.5, 
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
+        "Country/Pop": 0.5, 
+        "Rock/Electronic": 0.5
     }, 
     "Abhi Swami": {
         "Hip Hop/Pop": 0.782608695652174, 
@@ -556,7 +556,7 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.7916666666666666, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.07692307692307693, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.6129032258064516, 
@@ -570,7 +570,7 @@
         "Hip Hop/Alternative": 0.2, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.2, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -604,12 +604,12 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.25, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.0, 
         "Country/Pop": 0.14285714285714285, 
-        "Rock/Electronic": 0.0
+        "Rock/Electronic": 0.5
     }, 
     "Kevin He": {
         "Hip Hop/Pop": 0.3333333333333333, 
@@ -654,7 +654,7 @@
         "Hip Hop/Alternative": 0.7857142857142857, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.25, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -668,7 +668,7 @@
         "Country/Alternative": 0.0, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 0.6666666666666666, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.2
     }, 
     "Sam Gnesin": {
@@ -749,9 +749,9 @@
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 0.5555555555555556, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
+        "Rock/Alternative": 0.5, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 0.0
     }, 
@@ -760,9 +760,9 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.9166666666666666, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.6470588235294118, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -796,7 +796,7 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.8421052631578947, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.16666666666666666, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.7619047619047619, 
@@ -816,11 +816,11 @@
         "Rock/Electronic": 0.7142857142857143
     }, 
     "Amy Xu": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 1.0, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.5, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.5, 
@@ -864,7 +864,7 @@
         "Rock/Electronic": 1.0
     }, 
     "Benjamin Davis": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 1.0, 
         "Hip Hop/Alternative": 0.0, 
@@ -872,7 +872,7 @@
         "Country/Alternative": 0.0, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 0.7058823529411765, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.8571428571428571
     }, 
     "Mark Phillips": {
@@ -918,7 +918,7 @@
         "Hip Hop/Alternative": 0.2727272727272727, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.2, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -978,7 +978,7 @@
         "Hip Hop/Alternative": 0.5, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.9166666666666666, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -1064,15 +1064,15 @@
         "Country/Alternative": 0.0, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 0.6923076923076923, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.9
     }, 
     "Dan Verzuh": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 1.0, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.5, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.9583333333333334, 
@@ -1104,16 +1104,16 @@
         "Rock/Electronic": 0.2
     }, 
     "Coleman DeleonJones": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
+        "Country/Pop": 0.5, 
+        "Rock/Electronic": 0.5
     }, 
     "Michael Shum": {
         "Hip Hop/Pop": 0.6875, 
@@ -1168,7 +1168,7 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.2222222222222222, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.25, 
         "Country/Electronic": 1.0, 
         "Rock/Alternative": 0.4, 
@@ -1176,15 +1176,15 @@
         "Rock/Electronic": 1.0
     }, 
     "Atul Pai": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 1.0, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.5, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 1.0
     }, 
     "Lucas Wimmer": {
@@ -1193,9 +1193,9 @@
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 0.7692307692307693, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
+        "Rock/Alternative": 0.5, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 0.0
     }, 
@@ -1236,19 +1236,19 @@
         "Rock/Electronic": 0.6785714285714286
     }, 
     "Abhay Bansal": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
+        "Country/Pop": 0.5, 
+        "Rock/Electronic": 0.5
     }, 
     "Sahith Nareddy": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 0.75, 
@@ -1256,7 +1256,7 @@
         "Country/Alternative": 0.0, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.0
     }, 
     "Jalen Wright": {
@@ -1301,11 +1301,11 @@
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.5, 
         "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.0
+        "Rock/Electronic": 0.5
     }, 
     "Ace Lopez": {
         "Hip Hop/Pop": 0.4, 
@@ -1404,15 +1404,15 @@
         "Rock/Electronic": 0.9090909090909091
     }, 
     "Colin Tremblay": {
-        "Hip Hop/Pop": 0.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 1.0, 
-        "Hip Hop/Alternative": 0.0, 
+        "Hip Hop/Alternative": 0.5, 
         "Hip Hop/Electronic": 0.0, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 1.0, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.75
     }, 
     "Ryan Singh": {
@@ -1424,7 +1424,7 @@
         "Country/Alternative": 0.0, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 0.5, 
-        "Country/Pop": 0.0, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.5
     }, 
     "Nalini Krishnan": {
@@ -1464,15 +1464,15 @@
         "Rock/Electronic": 0.625
     }, 
     "Yeab Wondimu": {
-        "Hip Hop/Pop": 1.0, 
+        "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
         "Rock/Pop": 0.0, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 0.875, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.0, 
+        "Rock/Alternative": 0.5, 
+        "Country/Pop": 0.5, 
         "Rock/Electronic": 0.0
     }, 
     "Arpan Roy": {
@@ -1481,7 +1481,7 @@
         "Rock/Pop": 0.25, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 0.95, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 1.0, 
         "Country/Pop": 0.0, 
@@ -1518,7 +1518,7 @@
         "Hip Hop/Alternative": 0.2222222222222222, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.8, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -1530,7 +1530,7 @@
         "Hip Hop/Alternative": 0.8636363636363636, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.25, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -1564,9 +1564,9 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.75, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.6, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -1577,7 +1577,7 @@
         "Rock/Pop": 0.3333333333333333, 
         "Hip Hop/Alternative": 1.0, 
         "Hip Hop/Electronic": 0.4, 
-        "Country/Alternative": 0.0, 
+        "Country/Alternative": 0.5, 
         "Country/Electronic": 0.0, 
         "Rock/Alternative": 1.0, 
         "Country/Pop": 0.0, 
@@ -1590,7 +1590,7 @@
         "Hip Hop/Alternative": 0.09090909090909091, 
         "Hip Hop/Electronic": 1.0, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.7777777777777778, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0
@@ -1636,9 +1636,9 @@
         "Not classified": 0.0, 
         "Rock/Pop": 0.9230769230769231, 
         "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
         "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
+        "Country/Electronic": 0.5, 
         "Rock/Alternative": 0.5714285714285714, 
         "Country/Pop": 0.0, 
         "Rock/Electronic": 1.0

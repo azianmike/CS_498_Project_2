@@ -100,22 +100,40 @@ for person in musicOver50List.keys():
 
     if hiphopPop != 0:
         personLikesPercents['Hip Hop/Pop'] = personLikes['Hip Hop']/hiphopPop
+    else:
+        personLikesPercents['Hip Hop/Pop'] = 0.5
     if hiphopAlternative != 0:
         personLikesPercents['Hip Hop/Alternative'] = personLikes['Hip Hop']/hiphopAlternative
+    else:
+        personLikesPercents['Hip Hop/Alternative'] = 0.5
     if hiphopElectronic != 0:
         personLikesPercents['Hip Hop/Electronic'] = personLikes['Hip Hop']/hiphopElectronic
+    else:
+        personLikesPercents['Hip Hop/Electronic'] = 0.5
     if rockPop != 0:
         personLikesPercents['Rock/Pop'] = personLikes['Rock']/rockPop
+    else:
+        personLikesPercents['Hip Hop/Pop'] = 0.5
     if rockAlternative != 0:
         personLikesPercents['Rock/Alternative'] = personLikes['Rock']/rockAlternative
+    else:
+        personLikesPercents['Rock/Alternative'] = 0.5
     if rockElectronic != 0:
         personLikesPercents['Rock/Electronic'] = personLikes['Rock']/rockElectronic
+    else:
+        personLikesPercents['Rock/Electronic'] = 0.5
     if countryPop != 0:
         personLikesPercents['Country/Pop'] = personLikes['Country']/countryPop
+    else:
+        personLikesPercents['Country/Pop'] = 0.5
     if countryAlternative != 0:
         personLikesPercents['Country/Alternative'] = personLikes['Country']/countryAlternative
+    else:
+        personLikesPercents['Country/Alternative'] = 0.5
     if countryElectronic != 0:
         personLikesPercents['Country/Electronic'] = personLikes['Country']/countryElectronic
+    else:
+        personLikesPercents['Country/Electronic'] = 0.5
 
 
     personLikesList[person]=personLikes
