@@ -921,7 +921,7 @@
       "music": "Immortal Technique, Raz Simone, Spaveech, Sonic C., R3hab, Guerilla Union, BRAINFEEDER, Krewella, Sam Lachow, Talkative, Adventure Club, Protohype, Myndset, Crizzly, Concept, Evil Pimp, DJ Prestige LC, Flosstradamus, Granted, Nortex418 Music, Nacho Picasso, Immortal Technique, BERT McALLASTER, TRONA, Gazmo The Gr8, Andre Nickatina, BattleCry Melody, Grynch, Kung Foo Grip, Elude, Third Attempt, Macklemore, Lil Wayne, Gangstagrass, ShankBone, Chiddy Bang, DJ Drama, T.I."
     }, 
     {
-      "name": "Joyce Alassë Tang", 
+      "name": "Joyce Alasse Tang",
       "music": "Alexa Whitney Music, Audrey Tom, Us, Lennon and Maisy, Jayesslee, The Civil Wars, guest., Drew Ryniewicz, The Astronomical Kid, THE FU, Heather Brevard, Michael Alvarado, Skam, hillsong united, An Epic, No Less, A Little Love [EP], by Jess Erbeck, Mike Tompkins, Colbie Calliat, Alex Huff Music, The Miracals, Poplin, All About Bees, by NazcarNation, Sophie Madeleine, Inch Chua, Songs for Cinema, Jason Mraz, Jack Johnson, Matt and kim, Gabe Bondoc, Matt and Kim, Jesse Butterworth, Owl City, David Choi, Phil Wickham, New Heights, Crowder Music, Remedy Drive, Switchfoot, Relient K, Nevertheless, Angel Taylor, A Rocket To The Moon, Taylor Swift, Demi Lovato, Ingrid Michaelson, Priscilla Ahn, Jonas Brothers, Parachute, Nevertheless, Starfield, Port Blue, Cady Groves, Cathy Nguyen"
     }, 
     {
@@ -2413,7 +2413,7 @@
       "music": "Kanye West, Frak, The Weeknd, Jay Z, Bob Marley, Brothers From Another, Kid Cudi, Lil Wayne, Drake, The Beatles, Eminem, Sammy Adams, Kromagnon, Blue Scholars, The Cool Kids, 50 Cent, B.o.B, Macklemore"
     }, 
     {
-      "name": "André Mattus", 
+      "name": "Andre Mattus",
       "music": "The 1975, Welcome to Night Vale, Florence and the Machine, 소녀시대(Girls' Generation), Adam Levine, Fun., Matthew Morrison, Chord Overstreet, Sam Tsui, Lindsey Stirling, Of Monsters and Men, Scott Hoying, MIKA, Imagine Dragons, Macklemore, Swedish House Mafia, CHOKLATE, Pentatonix, Kurt Schneider, Tanner Patrick, Vanessa Carlton, Nellie Veitenheimer, the BELLAS!, CeeLo Green, Jason Mraz, Amy Winehouse, Jessie J, Fleetwood Mac, Maroon 5, Peter Lee Johnson, Coldplay, Mayday Parade, Corinne Bailey Rae, BIGBANG, Adele, Darren Criss, Cameron Mitchell, Damian McGinty (Official), Christina Aguilera, Avril Lavigne, 샤이니(SHINee), Evanescence, Beyoncé, 周杰倫 Jay Chou, John Mayer, Train, Tokio Hotel, Katy Perry, Shakira, Linkin Park, Paramore, Skillet Music, Eminem, Rihanna, All Time Low, I remember where I was when I heard that Michael Jackson died, Lakeside Acafellas, Owl City, Susan Boyle, Michael Jackson, The Yale Alley Cats, Lady Gaga, UVERworld, We The Kings, Fueled By Ramen, Yellowcard, Boys Like Girls"
     }, 
     {
@@ -4841,7 +4841,7 @@
       "music": "Business Sharks, R.E.M., AC/DC, Guns N' Roses, Pearl Jam, U2"
     }, 
     {
-      "name": "Andrés Rubira", 
+      "name": "Andres Rubira",
       "music": "The Dead Sea Crows, PTSD, Los Angeles Unified School District All City Honor Marching Band, The Zombies, \"Modjo\", Gustav Holst, Ryder Crim, Best Coast, Tyler, The Creator, The Short Necked Giraffes, O.F.W.G.K.T.A, Vibes, Skadouche, Blink-182, Wolfgang Amadeus Mozart, Mussorgsky, Frédéric Chopin, Cage The Elephant, Tyler the Creator, Tru Rhythm, Snowpatrol, James Moody, The Airborne Toxic Event, New Order, Lenny Kravitz, The Zombies, U2, Bob Marley, Metallica, Foster The People, Jimi Hendrix, Does It Offend You, Yeah?, Interpol, John Lennon, Conjunto Primavera, System of a Down, Oasis, Johnny Cash, The Doors, Pink Floyd, Morrissey Official, The Smiths, Franz Ferdinand, Incubus, Dada Life, Chuck Berry, Sublime, The Black Keys, ELVIS PRESLEY, Don Drummond, Muse, Wolfgang Amadeus Phoenix, The Killers, Modest Mouse, Panic! At The Disco, Blink 182, Red Hot Chili Peppers, Dethklok, The Beatles, Nirvana, Weezer, Depeche Mode, The Cure"
     }, 
     {

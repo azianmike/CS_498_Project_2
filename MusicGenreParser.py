@@ -1,6 +1,7 @@
 __author__ = 'michaelluo'
 
 import json
+import csv
 from GenreDictionary import artistGenre
 
 openData = open('jay-friends-music.txt')
@@ -150,3 +151,11 @@ with open('JayBensalFriendData.txt', 'w') as outfile:
 
 with open('JayBensalFriendDataPercents.txt', 'w') as outfile:
     json.dump(personLikesPercentList, outfile, indent=4)
+
+with open('eggs.csv', 'wb') as csvfile:
+    spamwriter = csv.writer(csvfile, delimiter=',',
+                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    spamwriter.writerow(['name']+['HipHop/Pop']+['HipHop/Alternative']+['HipHop/Electronic']+['Rock/Pop']+['Rock/Alternative']+['Rock/Electronic']+['Country/Pop']+['Country/Alternative']+['Country/Electronic'])
+    for person in personLikesPercentList:
+        spamwriter.writerow([person] + [personLikesPercentList[person]['Hip Hop/Pop']] + [personLikesPercentList[person]['Hip Hop/Alternative']] + [personLikesPercentList[person]['Hip Hop/Electronic']] + [personLikesPercentList[person]['Rock/Pop']] + [personLikesPercentList[person]['Rock/Alternative']] + [personLikesPercentList[person]['Rock/Electronic']] + [personLikesPercentList[person]['Country/Pop']] + [personLikesPercentList[person]['Country/Alternative']] + [personLikesPercentList[person]['Country/Electronic']])
+        #print person

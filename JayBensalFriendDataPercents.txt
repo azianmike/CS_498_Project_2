@@ -71,6 +71,18 @@
         "Country/Pop": 0.0, 
         "Rock/Electronic": 0.5
     }, 
+    "Joyce Alasse Tang": {
+        "Hip Hop/Pop": 0.0, 
+        "Not classified": 0.0, 
+        "Rock/Pop": 0.0, 
+        "Hip Hop/Alternative": 0.0, 
+        "Hip Hop/Electronic": 0.5, 
+        "Country/Alternative": 0.25, 
+        "Country/Electronic": 1.0, 
+        "Rock/Alternative": 0.0, 
+        "Country/Pop": 0.14285714285714285, 
+        "Rock/Electronic": 0.5
+    }, 
     "Sasank Vemulapati": {
         "Hip Hop/Pop": 0.25, 
         "Not classified": 0.0, 
@@ -239,6 +251,18 @@
         "Country/Pop": 0.2692307692307692, 
         "Rock/Electronic": 0.6
     }, 
+    "Andres Rubira": {
+        "Hip Hop/Pop": 1.0, 
+        "Not classified": 0.0, 
+        "Rock/Pop": 1.0, 
+        "Hip Hop/Alternative": 0.16666666666666666, 
+        "Hip Hop/Electronic": 1.0, 
+        "Country/Alternative": 0.16666666666666666, 
+        "Country/Electronic": 1.0, 
+        "Rock/Alternative": 0.6666666666666666, 
+        "Country/Pop": 1.0, 
+        "Rock/Electronic": 1.0
+    }, 
     "Rohit Nadkarni": {
         "Hip Hop/Pop": 0.9, 
         "Not classified": 0.0, 
@@ -322,18 +346,6 @@
         "Rock/Alternative": 0.25, 
         "Country/Pop": 0.5, 
         "Rock/Electronic": 1.0
-    }, 
-    "Evan Gordon": {
-        "Hip Hop/Pop": 0.9230769230769231, 
-        "Not classified": 0.0, 
-        "Rock/Pop": 0.8888888888888888, 
-        "Hip Hop/Alternative": 0.9230769230769231, 
-        "Hip Hop/Electronic": 0.75, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.0, 
-        "Rock/Alternative": 0.8888888888888888, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 0.6666666666666666
     }, 
     "Lucas Donnelley": {
         "Hip Hop/Pop": 0.625, 
@@ -599,17 +611,17 @@
         "Country/Pop": 0.3076923076923077, 
         "Rock/Electronic": 0.5555555555555556
     }, 
-    "Joyce Alass\u00eb Tang": {
-        "Hip Hop/Pop": 0.0, 
+    "Evan Gordon": {
+        "Hip Hop/Pop": 0.9230769230769231, 
         "Not classified": 0.0, 
-        "Rock/Pop": 0.0, 
-        "Hip Hop/Alternative": 0.0, 
-        "Hip Hop/Electronic": 0.5, 
-        "Country/Alternative": 0.25, 
-        "Country/Electronic": 1.0, 
-        "Rock/Alternative": 0.0, 
-        "Country/Pop": 0.14285714285714285, 
-        "Rock/Electronic": 0.5
+        "Rock/Pop": 0.8888888888888888, 
+        "Hip Hop/Alternative": 0.9230769230769231, 
+        "Hip Hop/Electronic": 0.75, 
+        "Country/Alternative": 0.0, 
+        "Country/Electronic": 0.0, 
+        "Rock/Alternative": 0.8888888888888888, 
+        "Country/Pop": 0.0, 
+        "Rock/Electronic": 0.6666666666666666
     }, 
     "Kevin He": {
         "Hip Hop/Pop": 0.3333333333333333, 
@@ -851,18 +863,6 @@
         "Country/Pop": 0.3333333333333333, 
         "Rock/Electronic": 0.7391304347826086
     }, 
-    "Andr\u00e9s Rubira": {
-        "Hip Hop/Pop": 1.0, 
-        "Not classified": 0.0, 
-        "Rock/Pop": 1.0, 
-        "Hip Hop/Alternative": 0.16666666666666666, 
-        "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.16666666666666666, 
-        "Country/Electronic": 1.0, 
-        "Rock/Alternative": 0.6666666666666666, 
-        "Country/Pop": 1.0, 
-        "Rock/Electronic": 1.0
-    }, 
     "Benjamin Davis": {
         "Hip Hop/Pop": 0.5, 
         "Not classified": 0.0, 
@@ -910,18 +910,6 @@
         "Rock/Alternative": 0.8333333333333334, 
         "Country/Pop": 0.3333333333333333, 
         "Rock/Electronic": 0.8333333333333334
-    }, 
-    "Andr\u00e9 Mattus": {
-        "Hip Hop/Pop": 0.16666666666666666, 
-        "Not classified": 0.0, 
-        "Rock/Pop": 0.11764705882352941, 
-        "Hip Hop/Alternative": 0.2727272727272727, 
-        "Hip Hop/Electronic": 1.0, 
-        "Country/Alternative": 0.0, 
-        "Country/Electronic": 0.5, 
-        "Rock/Alternative": 0.2, 
-        "Country/Pop": 0.0, 
-        "Rock/Electronic": 1.0
     }, 
     "Ajay Solanky": {
         "Hip Hop/Pop": 0.9, 
@@ -1054,6 +1042,18 @@
         "Rock/Alternative": 0.625, 
         "Country/Pop": 0.3333333333333333, 
         "Rock/Electronic": 0.5
+    }, 
+    "Andre Mattus": {
+        "Hip Hop/Pop": 0.16666666666666666, 
+        "Not classified": 0.0, 
+        "Rock/Pop": 0.11764705882352941, 
+        "Hip Hop/Alternative": 0.2727272727272727, 
+        "Hip Hop/Electronic": 1.0, 
+        "Country/Alternative": 0.0, 
+        "Country/Electronic": 0.5, 
+        "Rock/Alternative": 0.2, 
+        "Country/Pop": 0.0, 
+        "Rock/Electronic": 1.0
     }, 
     "Brendan Ryan": {
         "Hip Hop/Pop": 1.0, 

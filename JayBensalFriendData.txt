@@ -53,6 +53,15 @@
         "Alternative": 1.0, 
         "Electronic": 0.0
     }, 
+    "Joyce Alasse Tang": {
+        "Country": 1.0, 
+        "Pop": 6.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 0.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
     "Sasank Vemulapati": {
         "Country": 1.0, 
         "Pop": 3.0, 
@@ -179,6 +188,15 @@
         "Alternative": 9.0, 
         "Electronic": 12.0
     }, 
+    "Andres Rubira": {
+        "Country": 2.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 20.0, 
+        "Alternative": 10.0, 
+        "Electronic": 0.0
+    }, 
     "Rohit Nadkarni": {
         "Country": 1.0, 
         "Pop": 1.0, 
@@ -241,15 +259,6 @@
         "Rock": 1.0, 
         "Alternative": 3.0, 
         "Electronic": 0.0
-    }, 
-    "Evan Gordon": {
-        "Country": 0.0, 
-        "Pop": 1.0, 
-        "Other": 0.0, 
-        "Hip Hop": 12.0, 
-        "Rock": 8.0, 
-        "Alternative": 1.0, 
-        "Electronic": 4.0
     }, 
     "Lucas Donnelley": {
         "Country": 3.0, 
@@ -449,14 +458,14 @@
         "Alternative": 5.0, 
         "Electronic": 8.0
     }, 
-    "Joyce Alass\u00eb Tang": {
-        "Country": 1.0, 
-        "Pop": 6.0, 
+    "Evan Gordon": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
         "Other": 0.0, 
-        "Hip Hop": 0.0, 
-        "Rock": 0.0, 
-        "Alternative": 3.0, 
-        "Electronic": 0.0
+        "Hip Hop": 12.0, 
+        "Rock": 8.0, 
+        "Alternative": 1.0, 
+        "Electronic": 4.0
     }, 
     "Kevin He": {
         "Country": 1.0, 
@@ -638,15 +647,6 @@
         "Alternative": 10.0, 
         "Electronic": 6.0
     }, 
-    "Andr\u00e9s Rubira": {
-        "Country": 2.0, 
-        "Pop": 0.0, 
-        "Other": 2.0, 
-        "Hip Hop": 2.0, 
-        "Rock": 20.0, 
-        "Alternative": 10.0, 
-        "Electronic": 0.0
-    }, 
     "Benjamin Davis": {
         "Country": 0.0, 
         "Pop": 0.0, 
@@ -682,15 +682,6 @@
         "Rock": 5.0, 
         "Alternative": 1.0, 
         "Electronic": 1.0
-    }, 
-    "Andr\u00e9 Mattus": {
-        "Country": 0.0, 
-        "Pop": 15.0, 
-        "Other": 1.0, 
-        "Hip Hop": 3.0, 
-        "Rock": 2.0, 
-        "Alternative": 8.0, 
-        "Electronic": 0.0
     }, 
     "Ajay Solanky": {
         "Country": 1.0, 
@@ -790,6 +781,15 @@
         "Rock": 5.0, 
         "Alternative": 3.0, 
         "Electronic": 5.0
+    }, 
+    "Andre Mattus": {
+        "Country": 0.0, 
+        "Pop": 15.0, 
+        "Other": 1.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 2.0, 
+        "Alternative": 8.0, 
+        "Electronic": 0.0
     }, 
     "Brendan Ryan": {
         "Country": 0.0, 
