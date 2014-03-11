@@ -1,852 +1,1244 @@
 {
-    "2": {
-        "Not classified": 29, 
-        "Other": 2, 
-        "Hip Hop": 20, 
-        "Rock": 21, 
-        "Country": 1, 
-        "Alternative": 4, 
-        "Electronic": 3, 
-        "Pop": 3
-    }, 
-    "3": {
-        "Not classified": 27, 
-        "Other": "0", 
-        "Hip Hop": 3, 
-        "Rock": 20, 
-        "Country": "0", 
-        "Alternative": 7, 
-        "Electronic": 3, 
-        "Pop": 11
-    }, 
-    "4": {
-        "Not classified": 60, 
-        "Other": "0", 
-        "Hip Hop": 10, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": 2, 
-        "Electronic": 4, 
-        "Pop": 2
-    }, 
-    "6": {
-        "Not classified": 38, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": 6, 
-        "Country": "0", 
-        "Alternative": 6, 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "7": {
-        "Not classified": 28, 
-        "Other": 1, 
-        "Hip Hop": 16, 
-        "Rock": 20, 
-        "Country": 2, 
-        "Alternative": 8, 
-        "Electronic": 7, 
-        "Pop": 18
-    }, 
-    "8": {
-        "Not classified": 48, 
-        "Other": "0", 
-        "Hip Hop": 4, 
-        "Rock": 8, 
-        "Country": 1, 
-        "Alternative": 4, 
-        "Electronic": 8, 
-        "Pop": 4
-    }, 
-    "9": {
-        "Not classified": 9, 
-        "Other": 3, 
-        "Hip Hop": 23, 
-        "Rock": 2, 
-        "Country": 1, 
-        "Alternative": 2, 
-        "Electronic": 3, 
-        "Pop": 9
-    }, 
-    "10": {
-        "Not classified": 26, 
-        "Other": "0", 
-        "Hip Hop": 5, 
-        "Rock": 10, 
-        "Country": "0", 
-        "Alternative": 6, 
-        "Electronic": 1, 
-        "Pop": 6
-    }, 
-    "267": {
-        "Not classified": 267, 
-        "Other": 3, 
-        "Hip Hop": 4, 
-        "Rock": 2, 
-        "Country": 2, 
-        "Alternative": 2, 
-        "Electronic": "0", 
-        "Pop": 11
-    }, 
-    "12": {
-        "Not classified": 20, 
-        "Other": 8, 
-        "Hip Hop": 54, 
-        "Rock": 18, 
-        "Country": 7, 
-        "Alternative": 9, 
-        "Electronic": 12, 
-        "Pop": 19
-    }, 
-    "13": {
-        "Not classified": 81, 
-        "Other": "0", 
-        "Hip Hop": 1, 
-        "Rock": 1, 
-        "Country": 13, 
-        "Alternative": 1, 
-        "Electronic": "0", 
-        "Pop": 4
-    }, 
-    "14": {
-        "Not classified": 71, 
-        "Other": 1, 
-        "Hip Hop": 4, 
-        "Rock": 4, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": 14, 
-        "Pop": 1
-    }, 
-    "15": {
-        "Not classified": 45, 
-        "Other": 2, 
-        "Hip Hop": 7, 
-        "Rock": 5, 
-        "Country": "0", 
-        "Alternative": 3, 
-        "Electronic": 15, 
-        "Pop": 2
-    }, 
-    "16": {
-        "Not classified": 16, 
-        "Other": "0", 
-        "Hip Hop": 30, 
-        "Rock": 3, 
-        "Country": 1, 
-        "Alternative": 1, 
-        "Electronic": 2, 
-        "Pop": 6
-    }, 
-    "145": {
-        "Not classified": 145, 
-        "Other": 1, 
-        "Hip Hop": 6, 
-        "Rock": 15, 
-        "Country": "0", 
-        "Alternative": 10, 
-        "Electronic": 8, 
-        "Pop": 16
-    }, 
-    "18": {
-        "Not classified": 32, 
-        "Other": 1, 
-        "Hip Hop": 18, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "19": {
-        "Not classified": 19, 
-        "Other": "0", 
-        "Hip Hop": 6, 
-        "Rock": 17, 
-        "Country": 2, 
-        "Alternative": 9, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "21": {
-        "Not classified": 49, 
-        "Other": 18, 
-        "Hip Hop": 11, 
-        "Rock": 6, 
-        "Country": 16, 
-        "Alternative": 15, 
-        "Electronic": 2, 
-        "Pop": 21
-    }, 
-    "22": {
-        "Not classified": 22, 
-        "Other": "0", 
-        "Hip Hop": 18, 
-        "Rock": 4, 
-        "Country": 1, 
-        "Alternative": 3, 
-        "Electronic": 5, 
-        "Pop": 5
-    }, 
-    "23": {
-        "Not classified": 25, 
-        "Other": 1, 
-        "Hip Hop": 23, 
-        "Rock": 6, 
-        "Country": 1, 
-        "Alternative": 6, 
-        "Electronic": 2, 
-        "Pop": 25
-    }, 
-    "152": {
-        "Not classified": 152, 
-        "Other": "0", 
-        "Hip Hop": 3, 
-        "Rock": 8, 
-        "Country": 1, 
-        "Alternative": 6, 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "26": {
-        "Not classified": 26, 
-        "Other": "0", 
-        "Hip Hop": 12, 
-        "Rock": 8, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": 4, 
-        "Pop": 1
-    }, 
-    "27": {
-        "Not classified": 27, 
-        "Other": "0", 
-        "Hip Hop": 22, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": "0", 
-        "Pop": 7
-    }, 
-    "29": {
-        "Not classified": 29, 
-        "Other": 2, 
-        "Hip Hop": 2, 
-        "Rock": 20, 
-        "Country": 2, 
-        "Alternative": 10, 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "30": {
-        "Not classified": 30, 
-        "Other": "0", 
-        "Hip Hop": 13, 
-        "Rock": 2, 
-        "Country": 1, 
-        "Alternative": 1, 
-        "Electronic": 1, 
-        "Pop": 3
-    }, 
-    "31": {
-        "Not classified": 31, 
-        "Other": 1, 
-        "Hip Hop": "0", 
-        "Rock": 11, 
-        "Country": "0", 
-        "Alternative": 6, 
-        "Electronic": "0", 
-        "Pop": 1
-    }, 
-    "32": {
-        "Not classified": 32, 
-        "Other": 1, 
-        "Hip Hop": 2, 
-        "Rock": 17, 
-        "Country": "0", 
-        "Alternative": 6, 
-        "Electronic": 4, 
-        "Pop": 1
-    }, 
-    "33": {
-        "Not classified": 33, 
-        "Other": 1, 
-        "Hip Hop": "0", 
-        "Rock": 16, 
-        "Country": 1, 
-        "Alternative": 5, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "34": {
-        "Not classified": 34, 
-        "Other": 1, 
-        "Hip Hop": 4, 
-        "Rock": 9, 
-        "Country": "0", 
-        "Alternative": 4, 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "35": {
-        "Not classified": 35, 
-        "Other": 1, 
-        "Hip Hop": 15, 
-        "Rock": 5, 
-        "Country": 2, 
-        "Alternative": 3, 
-        "Electronic": 5, 
-        "Pop": 7
-    }, 
-    "292": {
-        "Not classified": 292, 
-        "Other": "0", 
-        "Hip Hop": 1, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": 8, 
-        "Pop": "0"
-    }, 
-    "37": {
-        "Not classified": 37, 
-        "Other": "0", 
-        "Hip Hop": 7, 
-        "Rock": 5, 
-        "Country": "0", 
-        "Alternative": 5, 
-        "Electronic": 1, 
-        "Pop": 2
-    }, 
-    "38": {
-        "Not classified": 38, 
-        "Other": 1, 
-        "Hip Hop": 3, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": 8, 
-        "Electronic": "0", 
-        "Pop": 15
-    }, 
-    "39": {
-        "Not classified": 42, 
-        "Other": 2, 
-        "Hip Hop": 39, 
-        "Rock": 3, 
-        "Country": "0", 
-        "Alternative": 2, 
-        "Electronic": 2, 
-        "Pop": 15
-    }, 
-    "40": {
-        "Not classified": 40, 
-        "Other": 1, 
-        "Hip Hop": 27, 
-        "Rock": 5, 
-        "Country": 1, 
-        "Alternative": 3, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "41": {
-        "Not classified": 41, 
-        "Other": "0", 
-        "Hip Hop": 2, 
-        "Rock": 5, 
-        "Country": 1, 
-        "Alternative": 3, 
-        "Electronic": 5, 
-        "Pop": 2
-    }, 
-    "42": {
-        "Not classified": 42, 
-        "Other": 12, 
-        "Hip Hop": 6, 
-        "Rock": 53, 
-        "Country": 5, 
-        "Alternative": 33, 
-        "Electronic": 7, 
-        "Pop": 3
-    }, 
-    "44": {
-        "Not classified": 44, 
-        "Other": 2, 
-        "Hip Hop": 19, 
-        "Rock": 1, 
-        "Country": "0", 
-        "Alternative": 3, 
-        "Electronic": "0", 
-        "Pop": 11
-    }, 
-    "46": {
-        "Not classified": 46, 
-        "Other": 1, 
-        "Hip Hop": 1, 
-        "Rock": 12, 
-        "Country": 2, 
-        "Alternative": 3, 
-        "Electronic": 4, 
-        "Pop": "0"
-    }, 
-    "47": {
-        "Not classified": 47, 
-        "Other": "0", 
-        "Hip Hop": 1, 
-        "Rock": 24, 
-        "Country": 1, 
-        "Alternative": 9, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "48": {
-        "Not classified": 48, 
-        "Other": 2, 
-        "Hip Hop": 1, 
-        "Rock": 9, 
-        "Country": 2, 
-        "Alternative": 2, 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "49": {
-        "Not classified": 49, 
-        "Other": 1, 
-        "Hip Hop": "0", 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "51": {
-        "Not classified": 51, 
-        "Other": "0", 
-        "Hip Hop": 5, 
-        "Rock": 8, 
-        "Country": "0", 
-        "Alternative": 6, 
-        "Electronic": 2, 
-        "Pop": 4
-    }, 
-    "52": {
-        "Not classified": 52, 
-        "Other": 2, 
-        "Hip Hop": 20, 
-        "Rock": 7, 
-        "Country": "0", 
-        "Alternative": 2, 
-        "Electronic": 8, 
-        "Pop": 4
-    }, 
-    "53": {
-        "Not classified": 53, 
-        "Other": "0", 
-        "Hip Hop": 6, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "54": {
-        "Not classified": 54, 
-        "Other": 2, 
-        "Hip Hop": "0", 
-        "Rock": 13, 
-        "Country": 2, 
-        "Alternative": 8, 
-        "Electronic": 9, 
-        "Pop": 4
-    }, 
-    "55": {
-        "Not classified": 55, 
-        "Other": "0", 
-        "Hip Hop": 5, 
-        "Rock": 8, 
-        "Country": 3, 
-        "Alternative": 4, 
-        "Electronic": "0", 
-        "Pop": 3
-    }, 
-    "56": {
-        "Not classified": 56, 
-        "Other": 1, 
-        "Hip Hop": 1, 
-        "Rock": 35, 
-        "Country": "0", 
-        "Alternative": 10, 
-        "Electronic": "0", 
-        "Pop": 1
-    }, 
-    "59": {
-        "Not classified": 59, 
-        "Other": "0", 
-        "Hip Hop": 10, 
-        "Rock": 5, 
-        "Country": "0", 
-        "Alternative": 5, 
-        "Electronic": 3, 
-        "Pop": 5
-    }, 
-    "60": {
-        "Not classified": 50, 
-        "Other": 17, 
-        "Hip Hop": 60, 
-        "Rock": 17, 
-        "Country": 6, 
-        "Alternative": 17, 
-        "Electronic": 3, 
-        "Pop": 47
-    }, 
-    "61": {
-        "Not classified": 61, 
-        "Other": "0", 
-        "Hip Hop": 5, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": 4, 
-        "Pop": 2
-    }, 
-    "62": {
-        "Not classified": 62, 
-        "Other": 1, 
-        "Hip Hop": 11, 
-        "Rock": 8, 
-        "Country": 1, 
-        "Alternative": "0", 
-        "Electronic": 2, 
-        "Pop": 5
-    }, 
-    "63": {
-        "Not classified": 63, 
-        "Other": 1, 
-        "Hip Hop": 1, 
-        "Rock": 3, 
-        "Country": 1, 
-        "Alternative": 1, 
-        "Electronic": 6, 
-        "Pop": 3
-    }, 
-    "64": {
-        "Not classified": 64, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": 12, 
-        "Country": "0", 
-        "Alternative": 8, 
-        "Electronic": "0", 
-        "Pop": 4
-    }, 
-    "65": {
-        "Not classified": 65, 
-        "Other": 3, 
-        "Hip Hop": 11, 
-        "Rock": 7, 
-        "Country": 2, 
-        "Alternative": 10, 
-        "Electronic": 9, 
-        "Pop": 8
-    }, 
-    "66": {
-        "Not classified": 66, 
-        "Other": 2, 
-        "Hip Hop": 17, 
-        "Rock": 5, 
-        "Country": 1, 
-        "Alternative": 6, 
-        "Electronic": 2, 
-        "Pop": 17
-    }, 
-    "11": {
-        "Not classified": 36, 
-        "Other": "0", 
-        "Hip Hop": 3, 
-        "Rock": 11, 
-        "Country": 1, 
-        "Alternative": 4, 
-        "Electronic": "0", 
-        "Pop": 11
-    }, 
-    "68": {
-        "Not classified": 68, 
-        "Other": 2, 
-        "Hip Hop": 13, 
-        "Rock": 1, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "228": {
-        "Not classified": 228, 
-        "Other": 2, 
-        "Hip Hop": 2, 
-        "Rock": 19, 
-        "Country": 1, 
-        "Alternative": 13, 
-        "Electronic": 1, 
-        "Pop": 3
-    }, 
-    "71": {
-        "Not classified": 71, 
-        "Other": 4, 
-        "Hip Hop": 11, 
-        "Rock": 1, 
-        "Country": "0", 
-        "Alternative": 3, 
-        "Electronic": "0", 
-        "Pop": 11
-    }, 
-    "73": {
-        "Not classified": 73, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": 13, 
-        "Country": 3, 
-        "Alternative": 5, 
-        "Electronic": 1, 
-        "Pop": 5
-    }, 
-    "74": {
-        "Not classified": 74, 
-        "Other": 1, 
-        "Hip Hop": 8, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "204": {
-        "Not classified": 204, 
-        "Other": "0", 
-        "Hip Hop": 2, 
-        "Rock": 5, 
-        "Country": 1, 
-        "Alternative": 5, 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "83": {
-        "Not classified": 83, 
-        "Other": "0", 
-        "Hip Hop": 2, 
-        "Rock": 10, 
-        "Country": 1, 
-        "Alternative": 4, 
-        "Electronic": 3, 
-        "Pop": 1
-    }, 
-    "84": {
-        "Not classified": 84, 
-        "Other": "0", 
-        "Hip Hop": 2, 
-        "Rock": 10, 
-        "Country": "0", 
-        "Alternative": 9, 
-        "Electronic": 1, 
-        "Pop": 2
-    }, 
-    "85": {
-        "Not classified": 85, 
-        "Other": "0", 
-        "Hip Hop": 1, 
-        "Rock": 1, 
-        "Country": "0", 
-        "Alternative": 4, 
-        "Electronic": "0", 
-        "Pop": 4
-    }, 
-    "89": {
-        "Not classified": 89, 
-        "Other": 1, 
-        "Hip Hop": 10, 
-        "Rock": 18, 
-        "Country": 1, 
-        "Alternative": 7, 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "91": {
-        "Not classified": 91, 
-        "Other": "0", 
-        "Hip Hop": 5, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": 3, 
-        "Electronic": 8, 
-        "Pop": 5
-    }, 
-    "92": {
-        "Not classified": 92, 
-        "Other": 2, 
-        "Hip Hop": 2, 
-        "Rock": 1, 
-        "Country": "0", 
-        "Alternative": 2, 
-        "Electronic": 1, 
-        "Pop": 1
-    }, 
-    "165": {
-        "Not classified": 165, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": 12, 
-        "Country": "0", 
-        "Alternative": 9, 
-        "Electronic": "0", 
-        "Pop": 1
-    }, 
-    "96": {
-        "Not classified": 96, 
-        "Other": 1, 
-        "Hip Hop": 10, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": 3, 
-        "Pop": 1
-    }, 
-    "321": {
-        "Not classified": 321, 
-        "Other": 4, 
-        "Hip Hop": 9, 
-        "Rock": 16, 
-        "Country": 1, 
-        "Alternative": 6, 
-        "Electronic": 3, 
-        "Pop": 1
-    }, 
-    "226": {
-        "Not classified": 226, 
-        "Other": 1, 
-        "Hip Hop": 1, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": 1, 
-        "Pop": 2
-    }, 
-    "99": {
-        "Not classified": 99, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": 1, 
-        "Electronic": "0", 
-        "Pop": 1
-    }, 
-    "100": {
-        "Not classified": 100, 
-        "Other": 1, 
-        "Hip Hop": 6, 
-        "Rock": 3, 
-        "Country": 1, 
-        "Alternative": 4, 
-        "Electronic": 1, 
-        "Pop": 6
-    }, 
-    "17": {
-        "Not classified": 22, 
-        "Other": 17, 
-        "Hip Hop": 6, 
-        "Rock": 2, 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": 9, 
-        "Pop": 4
-    }, 
-    "103": {
-        "Not classified": 103, 
-        "Other": "0", 
-        "Hip Hop": "0", 
-        "Rock": 3, 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "106": {
-        "Not classified": 106, 
-        "Other": "0", 
-        "Hip Hop": 2, 
-        "Rock": 8, 
-        "Country": 1, 
-        "Alternative": 3, 
-        "Electronic": "0", 
-        "Pop": 2
-    }, 
-    "107": {
-        "Not classified": 107, 
-        "Other": "0", 
-        "Hip Hop": 1, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": "0", 
-        "Pop": "0"
-    }, 
-    "76": {
-        "Not classified": 76, 
-        "Other": 1, 
-        "Hip Hop": 7, 
-        "Rock": "0", 
-        "Country": "0", 
-        "Alternative": "0", 
-        "Electronic": 1, 
-        "Pop": "0"
-    }, 
-    "115": {
-        "Not classified": 115, 
-        "Other": 2, 
-        "Hip Hop": 1, 
-        "Rock": 25, 
-        "Country": 1, 
-        "Alternative": 14, 
-        "Electronic": 6, 
-        "Pop": 2
-    }, 
-    "244": {
-        "Not classified": 244, 
-        "Other": 3, 
-        "Hip Hop": 2, 
-        "Rock": 28, 
-        "Country": "0", 
-        "Alternative": 7, 
-        "Electronic": "0", 
-        "Pop": 1
-    }, 
-    "119": {
-        "Not classified": 119, 
-        "Other": 2, 
-        "Hip Hop": "0", 
-        "Rock": 27, 
-        "Country": 3, 
-        "Alternative": 19, 
-        "Electronic": 1, 
-        "Pop": 7
-    }, 
-    "121": {
-        "Not classified": 121, 
-        "Other": 2, 
-        "Hip Hop": "0", 
-        "Rock": 5, 
-        "Country": 1, 
-        "Alternative": 1, 
-        "Electronic": 1, 
-        "Pop": 2
-    }, 
-    "125": {
-        "Not classified": 125, 
-        "Other": 5, 
-        "Hip Hop": 3, 
-        "Rock": 17, 
-        "Country": 1, 
-        "Alternative": 10, 
-        "Electronic": 6, 
-        "Pop": 2
+    "Mateo Lamping": {
+        "Country": 1.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 29.0, 
+        "Rock": 2.0, 
+        "Alternative": 1.0, 
+        "Electronic": 2.0
+    }, 
+    "Max Chen": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 2.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 3.0, 
+        "Alternative": 4.0, 
+        "Electronic": 1.0
+    }, 
+    "Vishnu Warrier": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 1.0, 
+        "Hip Hop": 8.0, 
+        "Rock": 3.0, 
+        "Alternative": 1.0, 
+        "Electronic": 15.0
+    }, 
+    "Suzanne Gaber": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 16.0, 
+        "Alternative": 9.0, 
+        "Electronic": 1.0
+    }, 
+    "Nikhila Iyer-Sridhar": {
+        "Country": 3.0, 
+        "Pop": 22.0, 
+        "Other": 2.0, 
+        "Hip Hop": 18.0, 
+        "Rock": 6.0, 
+        "Alternative": 10.0, 
+        "Electronic": 2.0
+    }, 
+    "Sophia Sojung Yuk": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 0.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Sasank Vemulapati": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 24.0, 
+        "Alternative": 9.0, 
+        "Electronic": 0.0
+    }, 
+    "Edison Orellana": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 6.0, 
+        "Alternative": 4.0, 
+        "Electronic": 0.0
+    }, 
+    "Zachary Delano": {
+        "Country": 0.0, 
+        "Pop": 3.0, 
+        "Other": 2.0, 
+        "Hip Hop": 14.0, 
+        "Rock": 14.0, 
+        "Alternative": 8.0, 
+        "Electronic": 6.0
+    }, 
+    "Aidan Weed": {
+        "Country": 0.0, 
+        "Pop": 3.0, 
+        "Other": 3.0, 
+        "Hip Hop": 21.0, 
+        "Rock": 13.0, 
+        "Alternative": 5.0, 
+        "Electronic": 13.0
+    }, 
+    "Tramaine Andre' Isabell": {
+        "Country": 0.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 26.0, 
+        "Rock": 0.0, 
+        "Alternative": 2.0, 
+        "Electronic": 1.0
+    }, 
+    "Alex Shaw": {
+        "Country": 1.0, 
+        "Pop": 7.0, 
+        "Other": 0.0, 
+        "Hip Hop": 9.0, 
+        "Rock": 23.0, 
+        "Alternative": 10.0, 
+        "Electronic": 2.0
+    }, 
+    "Dave Fontenot": {
+        "Country": 2.0, 
+        "Pop": 8.0, 
+        "Other": 3.0, 
+        "Hip Hop": 11.0, 
+        "Rock": 7.0, 
+        "Alternative": 10.0, 
+        "Electronic": 9.0
+    }, 
+    "Karl Larson": {
+        "Country": 1.0, 
+        "Pop": 6.0, 
+        "Other": 0.0, 
+        "Hip Hop": 30.0, 
+        "Rock": 3.0, 
+        "Alternative": 1.0, 
+        "Electronic": 2.0
+    }, 
+    "Alex Muscat": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 2.0, 
+        "Alternative": 1.0, 
+        "Electronic": 1.0
+    }, 
+    "Ema Dorotkova Sheehan": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 7.0, 
+        "Rock": 17.0, 
+        "Alternative": 8.0, 
+        "Electronic": 1.0
+    }, 
+    "Susie Neilson": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 2.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 0.0, 
+        "Alternative": 2.0, 
+        "Electronic": 1.0
+    }, 
+    "Vineet Rastogi": {
+        "Country": 1.0, 
+        "Pop": 11.0, 
+        "Other": 1.0, 
+        "Hip Hop": 15.0, 
+        "Rock": 4.0, 
+        "Alternative": 7.0, 
+        "Electronic": 10.0
+    }, 
+    "Pravin Kumar Kottapalli": {
+        "Country": 5.0, 
+        "Pop": 23.0, 
+        "Other": 1.0, 
+        "Hip Hop": 32.0, 
+        "Rock": 3.0, 
+        "Alternative": 6.0, 
+        "Electronic": 1.0
+    }, 
+    "Raoul Soans": {
+        "Country": 7.0, 
+        "Pop": 19.0, 
+        "Other": 8.0, 
+        "Hip Hop": 54.0, 
+        "Rock": 18.0, 
+        "Alternative": 9.0, 
+        "Electronic": 12.0
+    }, 
+    "Rohit Nadkarni": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 4.0, 
+        "Hip Hop": 9.0, 
+        "Rock": 16.0, 
+        "Alternative": 6.0, 
+        "Electronic": 3.0
+    }, 
+    "Michael Chang": {
+        "Country": 0.0, 
+        "Pop": 7.0, 
+        "Other": 0.0, 
+        "Hip Hop": 22.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Preston Ossman": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Monica Mendoza-Castrejon": {
+        "Country": 1.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 10.0, 
+        "Rock": 18.0, 
+        "Alternative": 7.0, 
+        "Electronic": 1.0
+    }, 
+    "Eleanor Lyon": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 13.0, 
+        "Alternative": 3.0, 
+        "Electronic": 1.0
+    }, 
+    "Peter Bromley": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 0.0, 
+        "Alternative": 2.0, 
+        "Electronic": 9.0
+    }, 
+    "Natalie Grace": {
+        "Country": 5.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 1.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Evan Gordon": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 12.0, 
+        "Rock": 8.0, 
+        "Alternative": 1.0, 
+        "Electronic": 4.0
+    }, 
+    "Lucas Donnelley": {
+        "Country": 3.0, 
+        "Pop": 3.0, 
+        "Other": 0.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 8.0, 
+        "Alternative": 4.0, 
+        "Electronic": 0.0
+    }, 
+    "Jack Powell": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 18.0, 
+        "Rock": 13.0, 
+        "Alternative": 9.0, 
+        "Electronic": 1.0
+    }, 
+    "Rick Bhardwaj": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 19.0, 
+        "Rock": 2.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Jordan Baczynski": {
+        "Country": 1.0, 
+        "Pop": 8.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 12.0, 
+        "Alternative": 5.0, 
+        "Electronic": 6.0
+    }, 
+    "Garrett Allen": {
+        "Country": 0.0, 
+        "Pop": 16.0, 
+        "Other": 1.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 15.0, 
+        "Alternative": 10.0, 
+        "Electronic": 8.0
+    }, 
+    "Teddy Alemayehu": {
+        "Country": 0.0, 
+        "Pop": 3.0, 
+        "Other": 1.0, 
+        "Hip Hop": 18.0, 
+        "Rock": 2.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Hannah Baek": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 4.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 10.0, 
+        "Alternative": 5.0, 
+        "Electronic": 1.0
+    }, 
+    "Varun Dhananjaya": {
+        "Country": 1.0, 
+        "Pop": 8.0, 
+        "Other": 1.0, 
+        "Hip Hop": 19.0, 
+        "Rock": 15.0, 
+        "Alternative": 7.0, 
+        "Electronic": 2.0
+    }, 
+    "Isaiah Sneed": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 0.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "David Fure": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Abhi Swami": {
+        "Country": 1.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 18.0, 
+        "Rock": 4.0, 
+        "Alternative": 3.0, 
+        "Electronic": 5.0
+    }, 
+    "Achal Varma": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 1.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 15.0, 
+        "Alternative": 4.0, 
+        "Electronic": 3.0
+    }, 
+    "Bram Dons-Borreguero": {
+        "Country": 0.0, 
+        "Pop": 5.0, 
+        "Other": 1.0, 
+        "Hip Hop": 28.0, 
+        "Rock": 7.0, 
+        "Alternative": 1.0, 
+        "Electronic": 4.0
+    }, 
+    "Sai Paul": {
+        "Country": 0.0, 
+        "Pop": 6.0, 
+        "Other": 0.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 10.0, 
+        "Alternative": 6.0, 
+        "Electronic": 1.0
+    }, 
+    "Adam Dornford": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 11.0, 
+        "Alternative": 4.0, 
+        "Electronic": 6.0
+    }, 
+    "Sofia Padilla": {
+        "Country": 1.0, 
+        "Pop": 10.0, 
+        "Other": 2.0, 
+        "Hip Hop": 18.0, 
+        "Rock": 1.0, 
+        "Alternative": 5.0, 
+        "Electronic": 0.0
+    }, 
+    "Joanne Nguyen-Austin": {
+        "Country": 1.0, 
+        "Pop": 13.0, 
+        "Other": 1.0, 
+        "Hip Hop": 14.0, 
+        "Rock": 1.0, 
+        "Alternative": 5.0, 
+        "Electronic": 0.0
+    }, 
+    "Giri Sharma": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 0.0, 
+        "Hip Hop": 13.0, 
+        "Rock": 2.0, 
+        "Alternative": 1.0, 
+        "Electronic": 1.0
+    }, 
+    "Jackson Osborn": {
+        "Country": 1.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 19.0, 
+        "Alternative": 12.0, 
+        "Electronic": 0.0
+    }, 
+    "Lavanya Iyer": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 1.0, 
+        "Alternative": 4.0, 
+        "Electronic": 0.0
+    }, 
+    "Bryce Dorn": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 5.0, 
+        "Alternative": 2.0, 
+        "Electronic": 1.0
+    }, 
+    "Rishi Paramesh": {
+        "Country": 4.0, 
+        "Pop": 9.0, 
+        "Other": 2.0, 
+        "Hip Hop": 21.0, 
+        "Rock": 10.0, 
+        "Alternative": 5.0, 
+        "Electronic": 8.0
+    }, 
+    "Joyce Alass\u00eb Tang": {
+        "Country": 1.0, 
+        "Pop": 6.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 0.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Kevin He": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 2.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 25.0, 
+        "Alternative": 14.0, 
+        "Electronic": 6.0
+    }, 
+    "Dayan Flynn-Walsh": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 8.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Pratham Gandhi": {
+        "Country": 1.0, 
+        "Pop": 10.0, 
+        "Other": 0.0, 
+        "Hip Hop": 8.0, 
+        "Rock": 6.0, 
+        "Alternative": 13.0, 
+        "Electronic": 4.0
+    }, 
+    "Madeline Ehrenberg": {
+        "Country": 0.0, 
+        "Pop": 11.0, 
+        "Other": 4.0, 
+        "Hip Hop": 11.0, 
+        "Rock": 1.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Adam Dopierala": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 2.0, 
+        "Alternative": 1.0, 
+        "Electronic": 8.0
+    }, 
+    "Sam Gnesin": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 4.0, 
+        "Rock": 4.0, 
+        "Alternative": 1.0, 
+        "Electronic": 14.0
+    }, 
+    "Gaurav Gupta": {
+        "Country": 1.0, 
+        "Pop": 17.0, 
+        "Other": 2.0, 
+        "Hip Hop": 17.0, 
+        "Rock": 5.0, 
+        "Alternative": 6.0, 
+        "Electronic": 2.0
+    }, 
+    "Sean Ekavithvorakul": {
+        "Country": 1.0, 
+        "Pop": 11.0, 
+        "Other": 1.0, 
+        "Hip Hop": 11.0, 
+        "Rock": 3.0, 
+        "Alternative": 4.0, 
+        "Electronic": 9.0
+    }, 
+    "Benjamin Trnka": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 8.0, 
+        "Alternative": 6.0, 
+        "Electronic": 2.0
+    }, 
+    "Saahil Dhulla": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 2.0, 
+        "Hip Hop": 20.0, 
+        "Rock": 7.0, 
+        "Alternative": 2.0, 
+        "Electronic": 8.0
+    }, 
+    "John Kang": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 3.0, 
+        "Alternative": 1.0, 
+        "Electronic": 6.0
+    }, 
+    "Kartik Shrivastava": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 4.0
+    }, 
+    "D.j. Mascarenas": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 11.0, 
+        "Alternative": 6.0, 
+        "Electronic": 0.0
+    }, 
+    "Cole Gleason": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 12.0, 
+        "Alternative": 4.0, 
+        "Electronic": 1.0
+    }, 
+    "Mia Kaim": {
+        "Country": 13.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 1.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Gabby Chuchro": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 16.0, 
+        "Alternative": 5.0, 
+        "Electronic": 0.0
+    }, 
+    "Manu Gandham": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 13.0, 
+        "Rock": 5.0, 
+        "Alternative": 2.0, 
+        "Electronic": 2.0
+    }, 
+    "Amy Xu": {
+        "Country": 1.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 1.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Thomas Thongmee": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 1.0, 
+        "Hip Hop": 10.0, 
+        "Rock": 11.0, 
+        "Alternative": 5.0, 
+        "Electronic": 1.0
+    }, 
+    "Jessee Mellinger": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 5.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 17.0, 
+        "Alternative": 10.0, 
+        "Electronic": 6.0
+    }, 
+    "Andr\u00e9s Rubira": {
+        "Country": 2.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 20.0, 
+        "Alternative": 10.0, 
+        "Electronic": 0.0
+    }, 
+    "Benjamin Davis": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 12.0, 
+        "Alternative": 5.0, 
+        "Electronic": 2.0
+    }, 
+    "Mark Phillips": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 10.0, 
+        "Alternative": 4.0, 
+        "Electronic": 3.0
+    }, 
+    "Kris Wan": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 2.0, 
+        "Alternative": 6.0, 
+        "Electronic": 4.0
+    }, 
+    "Alanna Offield": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 5.0, 
+        "Alternative": 1.0, 
+        "Electronic": 1.0
+    }, 
+    "Andr\u00e9 Mattus": {
+        "Country": 0.0, 
+        "Pop": 15.0, 
+        "Other": 1.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 2.0, 
+        "Alternative": 8.0, 
+        "Electronic": 0.0
+    }, 
+    "Ajay Solanky": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 1.0, 
+        "Hip Hop": 27.0, 
+        "Rock": 5.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Hosanna Fuller": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 1.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 22.0, 
+        "Alternative": 11.0, 
+        "Electronic": 1.0
+    }, 
+    "Siva Sankrithi": {
+        "Country": 16.0, 
+        "Pop": 21.0, 
+        "Other": 18.0, 
+        "Hip Hop": 11.0, 
+        "Rock": 6.0, 
+        "Alternative": 15.0, 
+        "Electronic": 2.0
+    }, 
+    "James Pabiniak": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 2.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 4.0, 
+        "Alternative": 9.0, 
+        "Electronic": 2.0
+    }, 
+    "Chelsea Maguire": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 11.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Graeme Aegerter": {
+        "Country": 1.0, 
+        "Pop": 6.0, 
+        "Other": 1.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 3.0, 
+        "Alternative": 4.0, 
+        "Electronic": 1.0
+    }, 
+    "Ron Meyer": {
+        "Country": 0.0, 
+        "Pop": 11.0, 
+        "Other": 0.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 20.0, 
+        "Alternative": 7.0, 
+        "Electronic": 3.0
+    }, 
+    "Chris Dube": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 17.0, 
+        "Alternative": 6.0, 
+        "Electronic": 4.0
+    }, 
+    "Jay Raju": {
+        "Country": 1.0, 
+        "Pop": 26.0, 
+        "Other": 2.0, 
+        "Hip Hop": 35.0, 
+        "Rock": 21.0, 
+        "Alternative": 10.0, 
+        "Electronic": 9.0
+    }, 
+    "Douglas Close": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 7.0, 
+        "Rock": 5.0, 
+        "Alternative": 5.0, 
+        "Electronic": 1.0
+    }, 
+    "Thibaut Xiong": {
+        "Country": 1.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 5.0, 
+        "Alternative": 3.0, 
+        "Electronic": 5.0
+    }, 
+    "Brendan Ryan": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 4.0, 
+        "Rock": 9.0, 
+        "Alternative": 4.0, 
+        "Electronic": 1.0
+    }, 
+    "Dan Verzuh": {
+        "Country": 1.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 23.0, 
+        "Alternative": 1.0, 
+        "Electronic": 0.0
+    }, 
+    "Kimaya Rane": {
+        "Country": 1.0, 
+        "Pop": 9.0, 
+        "Other": 3.0, 
+        "Hip Hop": 23.0, 
+        "Rock": 2.0, 
+        "Alternative": 2.0, 
+        "Electronic": 3.0
+    }, 
+    "Julia Francesca Tombari": {
+        "Country": 0.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 5.0, 
+        "Rock": 2.0, 
+        "Alternative": 3.0, 
+        "Electronic": 8.0
+    }, 
+    "Coleman DeleonJones": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 8.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Michael Shum": {
+        "Country": 1.0, 
+        "Pop": 5.0, 
+        "Other": 1.0, 
+        "Hip Hop": 11.0, 
+        "Rock": 8.0, 
+        "Alternative": 0.0, 
+        "Electronic": 2.0
+    }, 
+    "Henry Zenkichi": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 2.0, 
+        "Hip Hop": 21.0, 
+        "Rock": 22.0, 
+        "Alternative": 9.0, 
+        "Electronic": 5.0
+    }, 
+    "Nicole Muehle": {
+        "Country": 1.0, 
+        "Pop": 1.0, 
+        "Other": 2.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 8.0, 
+        "Alternative": 10.0, 
+        "Electronic": 1.0
+    }, 
+    "Schuyler Karr": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 2.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 1.0, 
+        "Alternative": 2.0, 
+        "Electronic": 1.0
+    }, 
+    "Pauline Hong-An Chane": {
+        "Country": 1.0, 
+        "Pop": 7.0, 
+        "Other": 1.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 2.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Atul Pai": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 6.0, 
+        "Alternative": 6.0, 
+        "Electronic": 0.0
+    }, 
+    "Lucas Wimmer": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 10.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 3.0
+    }, 
+    "Liz Sheehan": {
+        "Country": 3.0, 
+        "Pop": 7.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 27.0, 
+        "Alternative": 19.0, 
+        "Electronic": 1.0
+    }, 
+    "Mary McCaw": {
+        "Country": 2.0, 
+        "Pop": 4.0, 
+        "Other": 2.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 13.0, 
+        "Alternative": 8.0, 
+        "Electronic": 9.0
+    }, 
+    "Jagie Daya": {
+        "Country": 2.0, 
+        "Pop": 16.0, 
+        "Other": 3.0, 
+        "Hip Hop": 15.0, 
+        "Rock": 19.0, 
+        "Alternative": 19.0, 
+        "Electronic": 9.0
+    }, 
+    "Abhay Bansal": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 15.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Sahith Nareddy": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 0.0, 
+        "Alternative": 1.0, 
+        "Electronic": 3.0
+    }, 
+    "Jalen Wright": {
+        "Country": 0.0, 
+        "Pop": 15.0, 
+        "Other": 2.0, 
+        "Hip Hop": 39.0, 
+        "Rock": 3.0, 
+        "Alternative": 2.0, 
+        "Electronic": 2.0
+    }, 
+    "Connor Viger": {
+        "Country": 2.0, 
+        "Pop": 7.0, 
+        "Other": 1.0, 
+        "Hip Hop": 15.0, 
+        "Rock": 5.0, 
+        "Alternative": 3.0, 
+        "Electronic": 5.0
+    }, 
+    "Bryant Wong": {
+        "Country": 1.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 5.0, 
+        "Alternative": 5.0, 
+        "Electronic": 1.0
+    }, 
+    "Neil Nijhawan": {
+        "Country": 0.0, 
+        "Pop": 7.0, 
+        "Other": 0.0, 
+        "Hip Hop": 23.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 0.0
+    }, 
+    "Ace Lopez": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 2.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 19.0, 
+        "Alternative": 13.0, 
+        "Electronic": 1.0
+    }, 
+    "Nathan Ryan": {
+        "Country": 1.0, 
+        "Pop": 3.0, 
+        "Other": 2.0, 
+        "Hip Hop": 20.0, 
+        "Rock": 21.0, 
+        "Alternative": 4.0, 
+        "Electronic": 3.0
+    }, 
+    "Kylan Race": {
+        "Country": 2.0, 
+        "Pop": 18.0, 
+        "Other": 1.0, 
+        "Hip Hop": 16.0, 
+        "Rock": 20.0, 
+        "Alternative": 8.0, 
+        "Electronic": 7.0
+    }, 
+    "Calvin Shirley": {
+        "Country": 3.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 13.0, 
+        "Alternative": 5.0, 
+        "Electronic": 1.0
+    }, 
+    "Akshath Sivaprasad": {
+        "Country": 1.0, 
+        "Pop": 25.0, 
+        "Other": 1.0, 
+        "Hip Hop": 23.0, 
+        "Rock": 6.0, 
+        "Alternative": 6.0, 
+        "Electronic": 2.0
+    }, 
+    "Venus Wei Kuo": {
+        "Country": 1.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 4.0, 
+        "Rock": 8.0, 
+        "Alternative": 4.0, 
+        "Electronic": 8.0
+    }, 
+    "Mitch Huang": {
+        "Country": 2.0, 
+        "Pop": 3.0, 
+        "Other": 0.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 17.0, 
+        "Alternative": 9.0, 
+        "Electronic": 0.0
+    }, 
+    "Ryan Sharon": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 10.0, 
+        "Alternative": 9.0, 
+        "Electronic": 1.0
+    }, 
+    "Colin Tremblay": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 3.0, 
+        "Alternative": 0.0, 
+        "Electronic": 1.0
+    }, 
+    "Ryan Singh": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 13.0, 
+        "Rock": 1.0, 
+        "Alternative": 1.0, 
+        "Electronic": 1.0
+    }, 
+    "Nalini Krishnan": {
+        "Country": 2.0, 
+        "Pop": 11.0, 
+        "Other": 3.0, 
+        "Hip Hop": 4.0, 
+        "Rock": 2.0, 
+        "Alternative": 2.0, 
+        "Electronic": 0.0
+    }, 
+    "Nikita Krichevskiy": {
+        "Country": 2.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 14.0, 
+        "Rock": 7.0, 
+        "Alternative": 10.0, 
+        "Electronic": 8.0
+    }, 
+    "Nitin Pai": {
+        "Country": 0.0, 
+        "Pop": 5.0, 
+        "Other": 0.0, 
+        "Hip Hop": 10.0, 
+        "Rock": 5.0, 
+        "Alternative": 5.0, 
+        "Electronic": 3.0
+    }, 
+    "Yeab Wondimu": {
+        "Country": 0.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 7.0, 
+        "Rock": 0.0, 
+        "Alternative": 0.0, 
+        "Electronic": 1.0
+    }, 
+    "Arpan Roy": {
+        "Country": 0.0, 
+        "Pop": 3.0, 
+        "Other": 0.0, 
+        "Hip Hop": 19.0, 
+        "Rock": 1.0, 
+        "Alternative": 0.0, 
+        "Electronic": 1.0
+    }, 
+    "Bodecker DellaMaria": {
+        "Country": 2.0, 
+        "Pop": 0.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 12.0, 
+        "Alternative": 3.0, 
+        "Electronic": 4.0
+    }, 
+    "David Zhao": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 0.0, 
+        "Hip Hop": 10.0, 
+        "Rock": 0.0, 
+        "Alternative": 2.0, 
+        "Electronic": 4.0
+    }, 
+    "Stuart Warren": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 3.0, 
+        "Hip Hop": 2.0, 
+        "Rock": 28.0, 
+        "Alternative": 7.0, 
+        "Electronic": 0.0
+    }, 
+    "Marlena Weid": {
+        "Country": 0.0, 
+        "Pop": 11.0, 
+        "Other": 2.0, 
+        "Hip Hop": 19.0, 
+        "Rock": 1.0, 
+        "Alternative": 3.0, 
+        "Electronic": 0.0
+    }, 
+    "Allie Canavan": {
+        "Country": 2.0, 
+        "Pop": 0.0, 
+        "Other": 2.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 9.0, 
+        "Alternative": 2.0, 
+        "Electronic": 0.0
+    }, 
+    "Alex Miropolsky": {
+        "Country": 0.0, 
+        "Pop": 2.0, 
+        "Other": 2.0, 
+        "Hip Hop": 7.0, 
+        "Rock": 5.0, 
+        "Alternative": 3.0, 
+        "Electronic": 15.0
+    }, 
+    "Kseniya Sovenko": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 12.0, 
+        "Alternative": 8.0, 
+        "Electronic": 0.0
+    }, 
+    "Steve Armintrout": {
+        "Country": 0.0, 
+        "Pop": 4.0, 
+        "Other": 17.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 2.0, 
+        "Alternative": 0.0, 
+        "Electronic": 9.0
+    }, 
+    "Babak Dabagh": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 1.0, 
+        "Hip Hop": 1.0, 
+        "Rock": 35.0, 
+        "Alternative": 10.0, 
+        "Electronic": 0.0
+    }, 
+    "Fainan Lakha": {
+        "Country": 1.0, 
+        "Pop": 0.0, 
+        "Other": 0.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 8.0, 
+        "Alternative": 6.0, 
+        "Electronic": 0.0
+    }, 
+    "Sadie LoGerfo-Olsen": {
+        "Country": 5.0, 
+        "Pop": 3.0, 
+        "Other": 12.0, 
+        "Hip Hop": 6.0, 
+        "Rock": 53.0, 
+        "Alternative": 33.0, 
+        "Electronic": 7.0
+    }, 
+    "Laurel Haeger": {
+        "Country": 6.0, 
+        "Pop": 47.0, 
+        "Other": 17.0, 
+        "Hip Hop": 60.0, 
+        "Rock": 17.0, 
+        "Alternative": 17.0, 
+        "Electronic": 3.0
+    }, 
+    "Ye Lwin Oo": {
+        "Country": 0.0, 
+        "Pop": 1.0, 
+        "Other": 0.0, 
+        "Hip Hop": 0.0, 
+        "Rock": 12.0, 
+        "Alternative": 9.0, 
+        "Electronic": 0.0
+    }, 
+    "Sierra Fuller": {
+        "Country": 1.0, 
+        "Pop": 11.0, 
+        "Other": 0.0, 
+        "Hip Hop": 3.0, 
+        "Rock": 11.0, 
+        "Alternative": 4.0, 
+        "Electronic": 0.0
     }
 }
